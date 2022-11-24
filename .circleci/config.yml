@@ -120,6 +120,7 @@ jobs:
           command: |
              cd frontend
              npm install
+             npm audit fix
              npm test
       - notify_on_failure
                 
