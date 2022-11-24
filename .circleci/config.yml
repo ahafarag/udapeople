@@ -9,7 +9,7 @@ commands:
       steps:
         - slack/notify:
             event: fail
-            channel: cicd-pipeline
+            channel: udapeople-app
             template: basic_fail_1
     install_aws_cli:
       description: Install aws cli v2
