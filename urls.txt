@@ -1,0 +1,18 @@
+1. Public Url to GitHub repository  (not private) [URL01]:
+https://github.com/abdufarag80/udapeople-cicd
+https://app.circleci.com/pipelines/github/abdufarag80/udapeople-cicd
+
+2. Public URL for your S3 Bucket (aka, your green candidate front-end) [URL02]:
+http://udapeople-40b0031.s3-website-us-west-2.amazonaws.com/#/employees
+
+3. Public URL for your CloudFront distribution (aka, your blue production front-end) [URL03]:
+http://d29vrl3v5ievxy.cloudfront.net	
+
+4. Public URLs to deployed application back-end in EC2 [URL04]:
+http://ec2-35-166-164-136.us-west-2.compute.amazonaws.com:3030/
+
+5. Public URL to your Prometheus Server [URL05]:
+http://ec2-44-230-244-140.us-west-2.compute.amazonaws.com:9090/targets
+
+
+
