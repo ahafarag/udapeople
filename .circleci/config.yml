@@ -417,7 +417,7 @@ jobs:
     steps:
       - slack/notify:
           event: pass
-          channel: cicd-pipeline  
+          channel: udapeople-app  
           template: success_tagged_deployment_1
 workflows:
   default:
